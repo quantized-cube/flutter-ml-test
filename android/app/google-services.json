@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488288355720",
+    "project_id": "qcube-firebase-overview-ml",
+    "storage_bucket": "qcube-firebase-overview-ml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488288355720:android:85cd37786dc09782faa63d",
+        "android_client_info": {
+          "package_name": "com.example.ml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZhQSnjDIfXrOsaMwhNGdJbw2yBFrC5lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
