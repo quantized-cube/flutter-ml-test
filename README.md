@@ -21,7 +21,15 @@ samples, guidance on mobile development, and a full API reference.
 1. Firebase でプロジェクトを作成
 1. プランを Blaze にアップグレード
 1. アプリに Firebase を追加
-1. ios/Runner/GoogleService-Info.plist と macos/Runner/GoogleService-Info.plist は非公開
+<!--
+1. ios/Runner/GoogleService-Info.plist と macos/Runner/GoogleService-Info.plist は非公開にしなくてよい
+https://stackoverflow.com/questions/44937175/firebase-should-i-add-googleservice-info-plist-to-gitignore
+https://qiita.com/hoshymo/items/e9c14ed157200b36eaa5
+-->
+
+## Blog
+
+[FlutterのAIアプリを3日で作った話](https://quantized-cube.com/flutter-ai-app-1/)
 
 ## 参考文献
 
